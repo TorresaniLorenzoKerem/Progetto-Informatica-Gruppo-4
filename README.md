@@ -35,3 +35,4 @@ Il progetto segue le due tematiche:
 
 1) [Progetto su Code.org](https://studio.code.org/projects/applab/kROdoV0GZ_OFJH0qOAU4pxYor1Koih3M_EQQRG4HyeU)
 2) [Trello Board](https://trello.com/invite/b/67fed3b2ac12c851b0eb606f/ATTIc5dd4c96ec1761e4f750aed82903de330646132C/concorso-gruppo-4)
+3) [Delightex Progetto](https://edu.delightex.com/YYC-QGE)
